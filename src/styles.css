@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 .detail-container {
   justify-content: center;
@@ -45,7 +45,7 @@ button {
   justify-content: center;
   align-items: center;
   height: 1em;
-  width: 10em;
+  width: 15em;
   font-size: 24px;
   background-color: aliceblue;
   margin: 0.5em 1em;
@@ -53,9 +53,10 @@ button {
   border-radius: 20em;
 }
 .footer {
-  background-color: rgba(144, 0, 255, 0.315);
+  background-color: rgba(29, 29, 29, 0.315);
   text-align: center;
   padding: 20px 0;
+  margin-top: 80px;
   font-size: large;
   color: azure;
 }
